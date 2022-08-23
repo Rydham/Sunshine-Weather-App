@@ -1,2 +1,2 @@
 # Sunshine-Weather-App
-Just install the app and run
+Just install the apk and run
